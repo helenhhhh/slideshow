@@ -1,10 +1,12 @@
 # slideshow
-###to run the code
 
-'''
+### to run the code
+
+```
 npm install
-'''
-
-'''
+```
+```
 npm start
-'''
+```
+
+
